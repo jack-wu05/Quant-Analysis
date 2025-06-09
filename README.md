@@ -1,2 +1,1 @@
-# Quant-Analysis
 Intern work.
